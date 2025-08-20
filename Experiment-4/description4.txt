@@ -1,0 +1,14 @@
+Let’s make typing a bit more interesting! In this activity, 
+i will create a simple webpage where the number of characters they type shows up instantly. 
+As they type into a box, the counter updates in real time like a little helper keeping track.
+It’s a fun way to learn how websites react to what users do, and it’s super easy to build with just a few lines of code. 
+Plus, it’s a great intro to how JavaScript handles user actions and updates the page without needing to reload.
+
+- Watching what you type
+You’ll use JavaScript to notice every letter typed and respond right away.
+- Showing the count instantly
+As you type, the number of characters updates live—no waiting, no clicking.
+- Why it’s useful
+Lots of websites use this to help people stay within limits, like tweets or form messages.
+- Easy to build
+Just basic HTML, a little CSS for style, and simple JavaScript to make it work.
