@@ -1,0 +1,21 @@
+Let’s draw right inside the browser!
+In this activity, I built a little SVG drawing tool where you can drag your mouse and create freehand lines on the screen. As soon as you press down and move the mouse, a blue path starts following your movements like a digital pen. When you let go, the drawing stops—just like lifting your pen off paper.
+
+It’s an easy but powerful way to see how JavaScript and SVG can work together to make interactive art directly on a webpage.
+
+- Drawing with your mouse
+  Every time you click and drag, the tool starts sketching lines right under your cursor.
+
+- Smooth path creation
+  The code keeps track of your mouse position and connects each movement with straight lines, forming a path.
+
+- Instant response
+  As you move, the line updates live—no reload, no extra steps.
+
+- Practical and fun
+  This is the same idea behind digital whiteboards or sketchpads on websites.
+
+- Easy setup
+  Just one <svg> area, a bit of styling, and a few lines of JavaScript to handle mouse events.
+
+ Basically, it’s like turning your browser into a mini paint app with just HTML, CSS, and JavaScript.
